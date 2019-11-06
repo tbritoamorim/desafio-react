@@ -1,0 +1,14 @@
+.tarefas {
+    background-color: white;
+    padding: 30px;
+    border-radius: 25px;
+    margin: 30px;
+    height: 130px;
+}
+.botaoTarefaConcluida {
+    float: right;
+    margin: 20px;
+}
+.stepsIcons {
+    font-size: 1.5em;
+}

@@ -1,0 +1,6 @@
+{
+    "funcionarios": [
+      { "nome": "Daniel Alves da Silva", "cpf": "000.000.000-01", "sexo": "masculino", "ativo": true, "data_nascimento": "11/02/1987", "rg": "1234467", "cargo": "Cargo 1", "epi": false, "atividade": "ativi. 1", "epi_nome": "calçado de segurança", "ca": "001" },
+      { "nome": "Giselle Torres ", "cpf": "000.000.000-02", "sexo": "feminino", "ativo": true, "data_nascimento": "11/02/1987", "rg": "1234468", "cargo": "Cargo 2", "epi": false, "atividade": "ativi. 1", "epi_nome": "calçado de segurança", "ca": "001" }
+    ]
+  }

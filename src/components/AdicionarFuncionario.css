@@ -1,0 +1,61 @@
+.form {
+    margin: 20px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 12px;
+}
+.titulo {
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    background-color: #4EA0BE;
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.ativo {
+    margin-top: 9px;
+    border: 1px solid #4EA0BE;
+    padding: 10px;
+    border-radius: 10px;
+}
+.infoPessoais {
+    margin-top: 9px;
+    border: 1px solid #4EA0BE;
+    padding: 10px;
+    border-radius: 10px;
+}
+.epis {
+    margin-top: 9px;
+    border: 1px solid #4EA0BE;
+    padding: 10px;
+    border-radius: 10px;
+}
+.atividade {
+    margin-top: 9px;
+    border: 1px solid #4EA0BE;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 9px;
+}
+.atestado {
+    margin-top: 9px;
+    border: 1px solid #4EA0BE;
+    padding: 10px;
+    border-radius: 10px;
+}
+input[type=text], input[type=date] {
+    border: 1px solid #4EA0BE;
+    border-radius: 5px;
+}
+.submit {
+    margin-top: 10px;
+    width: 100%;
+    background-color: white;
+    color: #4EA0BE;
+    border: 1px solid #4EA0BE;
+    border-radius: 10px;
+    padding: 7px;
+}
+
