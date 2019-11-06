@@ -48,6 +48,7 @@
 input[type=text], input[type=date] {
     border: 1px solid #4EA0BE;
     border-radius: 5px;
+    width: 90%;
 }
 .submit {
     margin-top: 10px;

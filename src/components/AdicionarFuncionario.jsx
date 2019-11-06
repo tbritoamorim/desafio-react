@@ -76,7 +76,7 @@ class AdicionarFuncionario extends Component {
                 </div>
                 <form onSubmit={this.handleSubmit}>
                     <div className="ativo">
-                        <p style={{display: 'inline', marginRight: '320px'}}>O trabalhador está ativo?</p>
+                        <p style={{display: 'inline', marginRight: '430px'}}>O trabalhador está ativo?</p>
                         <Switch checkedChildren="Ativo" unCheckedChildren="Inativo" defaultChecked/>
                     </div>
                     <div className="infoPessoais">

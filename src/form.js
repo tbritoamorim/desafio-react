@@ -17,10 +17,10 @@ class Form extends Component {
                     <Col span={24}><Tarefas></Tarefas></Col>
                 </Row>
                 <Row>
-                    <Col span={12}>
+                    <Col span={10}>
                     <Card></Card>
                     </Col>
-                    <Col span={12}>
+                    <Col span={14}>
                     <AdicionarFuncionario></AdicionarFuncionario>
                     
                     </Col>
